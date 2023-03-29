@@ -1,0 +1,11 @@
+fname = input ("Enter your name")
+adrs = input ("Where are you from")
+bday = input ("When is your birthday")
+college = input ("My college, course, year and section")
+hobbies = input ("Enter your hobbies atleast 5")
+
+print ("My name is",fname)
+print("I'm from",adrs)
+print ("My birthday is on",bday)
+print ("My college, course, year and section is",college)
+print ("My hobbies are",hobbies)
